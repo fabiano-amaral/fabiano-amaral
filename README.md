@@ -1,5 +1,4 @@
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/fabiano-amaral/fabiano-amaral/blob/main/github-metrics.svg)
 <!--
 **fabiano-amaral/fabiano-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
